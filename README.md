@@ -1,7 +1,7 @@
 # KotlinRecyclerView
 Recyclerview example using **Kotlin**.
 
-<img src="https://github.com/pranaypatel512/KotlinRecyclerView/screenshot/kotlin_recycler_view.png" width="300" >
+<img src="https://github.com/pranaypatel512/KotlinRecyclerView/blob/master/screenshot/kotlin_recycler_view.png" width="300" >
 
 
 #### Built With
